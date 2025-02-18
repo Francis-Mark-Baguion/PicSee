@@ -15,6 +15,8 @@ PicSee is a Flutter-based mobile application designed for seamless image viewing
 - 📁 Integration with device gallery
 
 ## Screenshots
+<img src="https://github.com/user-attachments/assets/f196039a-fa1e-4679-9b66-d76e500fe543" alt="withPhoto" width="500"/>
+<img src="https://github.com/user-attachments/assets/e260b990-8914-4f37-8ce6-8c66027928fd" alt="withPhoto" width="500"/>
 
 
 
